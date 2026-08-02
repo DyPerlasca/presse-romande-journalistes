@@ -1,0 +1,2 @@
+# Reconstruire le journaliste à travers ses traces dans la presse romande (1870-1980)
+Ce dépôt rassemble les codes utilisés pour produire les graphiques du mémoire "Reconstruire le journaliste à travers ses traces dans la presse romande (1870-1980). Fréquences lexicales, signatures et trajectoires professionnelles". Les données mobilisés proviennent d’Impresso (https://impresso-project.ch/) ou de relevés manuels. Les données Impresso, soumises au droit d’auteur, ne sont pas incluses. Codes réalisés par l'auteur avec le support d'un modèle de langage LLM (ChatGPT).
