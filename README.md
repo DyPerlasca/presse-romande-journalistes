@@ -59,3 +59,7 @@ Les notebooks ont servi à :
 - exporter les figures utilisées dans le mémoire
 
 Les fichiers JavaScript présents dans ce dépôt correspondent aux notebooks Observable exportés ainsi qu’aux modules nécessaires à leur exécution locale.
+
+## Consultation locale
+
+Il reste toutefois possible de reconstituer les jeux de données nécessaires à l’exécution des scripts et des codes Observable Plot. Les utilisateurs disposant d’un accès à Impresso peuvent reproduire les recherches par mots-clés dans les mêmes collections, selon les critères décrits dans le mémoire, puis appliquer les étapes de nettoyage, de filtrage et de préparation présentées dans ce dépôt afin d’obtenir les fichiers CSV nécessaires aux visualisations.
