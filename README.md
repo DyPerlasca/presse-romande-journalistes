@@ -61,5 +61,6 @@ Les notebooks ont servi à :
 Les fichiers JavaScript présents dans ce dépôt correspondent aux notebooks Observable exportés ainsi qu’aux modules nécessaires à leur exécution locale.
 
 ## Consultation locale
+Les fichiers de ce dépôt peuvent être téléchargés ou clonés depuis GitHub afin d’être consultés et exécutés localement. Pour visualiser un notebook Observable exporté, il suffit de lancer un serveur local depuis le dossier correspondant :
 
-Il reste toutefois possible de reconstituer les jeux de données nécessaires à l’exécution des scripts et des codes Observable Plot. Les utilisateurs disposant d’un accès à Impresso peuvent reproduire les recherches par mots-clés dans les mêmes collections, selon les critères décrits dans le mémoire, puis appliquer les étapes de nettoyage, de filtrage et de préparation présentées dans ce dépôt afin d’obtenir les fichiers CSV nécessaires aux visualisations.
+Certains jeux de données constitués à partir d’Impresso ne sont pas inclus dans ce dépôt en raison des droits d’auteur et des conditions d’utilisation de la plateforme. Les utilisateurs disposant d’un accès à Impresso peuvent néanmoins reconstituer les fichiers nécessaires à l’exécution des scripts et des codes Observable Plot en reproduisant les recherches par mots-clés dans les mêmes collections, selon les critères décrits dans le mémoire, puis en appliquant les étapes de nettoyage, de filtrage et de préparation présentées dans ce dépôt.
