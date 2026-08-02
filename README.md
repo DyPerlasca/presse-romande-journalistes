@@ -1,6 +1,6 @@
-# Scripts et codes de visualisation développés avec l'outil de visualisation "Observable Notebooks" (https://observablehq.com/) dans le cadre du mémoire de master de Dylan Perlasca, semestre de printemps 2026 : "Reconstruire le journaliste à travers ses traces dans la presse romande (1870-1980)".
+# Scripts et codes de visualisation développés dans le cadre du mémoire de master de Dylan Perlasca, UNIL, semestre de printemps 2026 : "Reconstruire le journaliste à travers ses traces dans la presse romande (1870-1980)".
 
-Ce dépôt rassemble les codes utilisés pour produire les graphiques du mémoire "Reconstruire le journaliste à travers ses traces dans la presse romande (1870-1980). Fréquences lexicales, signatures et trajectoires professionnelles". Les données mobilisés proviennent d’Impresso (https://impresso-project.ch/) ou de relevés manuels. Les données Impresso, soumises au droit d’auteur, ne sont pas incluses. Codes réalisés par l'auteur avec le support d'un modèle de langage LLM (ChatGPT).
+Ce dépôt rassemble les codes utilisés pour produire les graphiques du mémoire "Reconstruire le journaliste à travers ses traces dans la presse romande (1870-1980). Fréquences lexicales, signatures et trajectoires professionnelles". Les données mobilisés proviennent d’Impresso (https://impresso-project.ch/) ou de relevés manuels. Les données Impresso, soumises au droit d’auteur, ne sont pas incluses. Codes réalisés par l'auteur avec le support d'un modèle de langage LLM (ChatGPT) avec l'outil de visualisation "Observable Notebooks" (https://observablehq.com/).
 
 ## Contenu du dépôt
 
