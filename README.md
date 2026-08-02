@@ -6,10 +6,10 @@ Ce dépôt rassemble les codes utilisés pour produire les graphiques du mémoir
 
 Le dépôt comprend :
 
-- des scripts Python utilisés pour nettoyer, filtrer, dédupliquer et créer les dataset utilisés;
-- des codes Observable Plot employés pour produire les graphiques figurant dans ce travail;
-- des jeux de données dérivés et nettoyés, lorsque leur diffusion est possible ;
-- les fichiers techniques nécessaires à l’exécution locale de certains notebooks Observable exportés.
+- des scripts Python utilisés pour nettoyer, filtrer, dédupliquer et créer les dataset utilisés
+- des codes sur Observable employés pour produire les graphiques figurant dans ce travail
+- des jeux de données dérivés et nettoyés, lorsque leur diffusion est possible 
+- les fichiers techniques nécessaires à l’exécution locale de certains notebooks Observable exportés
 
 ## Étapes de construction des visualisations
 
