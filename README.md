@@ -33,7 +33,7 @@ Les données utilisées pour étudier l’évolution des signatures dans le chap
 
 ### 2. Nettoyage et préparation des données
 
-Les fichiers ont ensuite été nettoyés, filtrés et, lorsque cela était nécessaire, dédupliqués à l’aide de scripts Python.
+Lorsque cela était nécessaire, les fichiers CSV ont ensuite été nettoyés, filtrés et dédupliqués à l’aide de scripts Python.
 
 Les principales opérations comprennent :
 
@@ -48,7 +48,7 @@ Les rapprochements entre une forme abrégée et un nom développé ont été eff
 
 ### 3. Construction des visualisations
 
-Les figures ont été conçues dans des notebooks Observable à l’aide d’Observable Plot et, pour certains graphiques, de composants D3 adaptés aux besoins de l’étude.
+La conception des figures s'appuie sur la plateforme Observable (https://observablehq.com), combinant la bibliothèque Observable Plot et, lorsque nécessaire, des développements D3 sur mesure adaptés aux exigences de l'étude.
 
 Les notebooks ont servi à :
 
