@@ -1,0 +1,14 @@
+{
+  "name": "b7e919ebf74b19f9",
+  "main": "b7e919ebf74b19f9@2397.js",
+  "version": "2397.0.0",
+  "homepage": "https://observablehq.com/d/b7e919ebf74b19f9",
+  "author": {
+    "name": "Classe",
+    "url": "https://observablehq.com/@dylanp"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
